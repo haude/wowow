@@ -78,8 +78,12 @@ You can read those → rules as *"The left hand side can be replaced with the ri
 	uppercase characters denote "non-terminals" - symbols which can be broken down further
 	lowercase characters denote "terminals" - symbols which cannot be broken down any further
 
+-----
+## :book: Further Reading
+* [True Power of Regex][regex_pow]
+
 [1]:http://openetherpad.org/hFHmRx8tDD
 [2]:http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/3/000/1f7/264/0ac820f.jpg
 [github]:https://github.com/signup/free
-
+[regex_pow]:http://nikic.github.com/2012/06/15/The-true-power-of-regular-expressions.html
 
