@@ -4,6 +4,8 @@ Everybody loves :sparkles: **Lava dai** :sparkles:, specially his streams of **w
 
 Nobody can decipher it till date, Why not make a *compiler* for it?
 
+if you are wonder what is compiler [click here][compiler].
+
 **************
 
 ***yes!*** **Welcome Abroad**
@@ -86,4 +88,4 @@ You can read those → rules as *"The left hand side can be replaced with the ri
 [2]:http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/3/000/1f7/264/0ac820f.jpg
 [github]:https://github.com/signup/free
 [regex_pow]:http://nikic.github.com/2012/06/15/The-true-power-of-regular-expressions.html
-
+[compiler]:http://www.cs.cmu.edu/~tom7/csnotes/spring03/compiler-time.gif
