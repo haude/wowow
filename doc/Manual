@@ -1,0 +1,42 @@
+# Tokens
+
++1, wow, like, blessed, wonderful, share, scroll, mail, spam, ping, post, tweet, endorse
+
+# Function
+
+share()
+scroll()
+post()
+disconnect()
+ping()
+notconnected()
+404()
+
+
+# Variables
+
+    a=5;
+    a="hello"; #
+    post(a); # share output to terminal
+
+## Array
+
+   a = { 1, 2 ,3, 4 };
+
+# loop
+
+CODE:
+
+    spam(i=1; i<5; +1) {
+       post(i," ");
+    }
+
+OUTPUT:
+
+    0 1 2 3 4
+
+CODE:
+
+    spam from a {
+        post(a)
+    }
